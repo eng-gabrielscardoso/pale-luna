@@ -1,0 +1,42 @@
+# Pale Luna - Docker ignore file
+
+# Binaries
+pale-luna
+pale-luna.exe
+pale-luna-*
+
+# Go build cache
+.cache/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation (for game container)
+README.md
+*.md
+
+# Docker files (for nested containers)
+Dockerfile
+docker-compose*.yml
+scripts/
+
+# Environment files
+.env
+.env.local
+.env.example
+
+# Temporary files
+*.tmp
+*.log
