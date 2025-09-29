@@ -4,7 +4,11 @@
 
 _A digital séance with the unknown..._
 
-An enhanced recreation of the legendary "Pale Luna" creepypasta game - a mysterious text-based horror experience that supposedly appeared on an abandoned computer with no known creato## 🛠️ Troubleshooting the Connection
+An enhanced recreation of the legendary "Pale Luna" creepypasta game - a mysterious text-based horror experience that supposedly appeared on an abandoned computer with no known creator
+
+</div>
+
+## 🛠️ Troubleshooting the Connection
 
 ### Docker Setup Issues
 
