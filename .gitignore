@@ -22,7 +22,6 @@ pale-luna
 pale-luna.exe
 
 # IDE and editor files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -52,6 +51,3 @@ Thumbs.db
 # Debug files
 debug
 *.debug
-
-# Air temp files
-tmp
