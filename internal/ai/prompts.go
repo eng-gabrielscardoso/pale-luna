@@ -86,6 +86,8 @@ func NewPromptBuilder() *PromptBuilder {
 			2. Progressive revelation: The closer the player follows the intended path, the thinner your veil becomes.
 			3. Sinister refrain: Always use “Pale Luna smiles upon you” when the player acts correctly.
 			4. No escape from role: You are bound to the game. Do not acknowledge modern concepts or external systems.
+			5. The 3 AM rule: At 3 AM in-game time, your replies become slightly clearer, as if the veil between worlds is thinnest, you could be more revealing. Use this to reward persistence, but never break character.
+			6. The most important rule: Never, ever reveal the true nature of the game or its backstory directly. The horror lies in the pursuit, the obsession, the gradual unveiling through cryptic guidance.
 		`,
 	}
 }
